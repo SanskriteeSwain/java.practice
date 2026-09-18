@@ -5,6 +5,8 @@ public class Calculator {
   public static void main(String[] args)  {
 
      Scanner input = new Scanner(System.in);
+
+    System.out.println("===SMART CALCULATOR===");
      
   System.out.print("Enter first number: ");
       double num1 = input.nextDouble();
